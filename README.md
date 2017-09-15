@@ -87,10 +87,12 @@
 * 课程名 name
 * 起始周 startWeek
 * 结束周 endWeek
+* 星期几 dayOfWeek
 * 教师名 teacher
-* 教室地点 classroom
+* 教室地点 classroom （可能不存在）
 * 开始节时 beginSection
 * 节数 sectionNum
+* 其它信息 如单双周 weekInfo （可能不存在）
 
 ---
 
